@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Riya/source/repos/SpaceProject/Content/coin.png</File>
+    <File>C:/Users/Riya/source/repos/SpaceProject/Content/forest.jpg</File>
+    <File>C:/Users/Riya/source/repos/SpaceProject/Content/ninja.png</File>
+    <File>C:/Users/Riya/source/repos/SpaceProject/Content/wood.png</File>
+    <File>C:/Users/Riya/source/repos/SpaceProject/Content/woodenplank.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
