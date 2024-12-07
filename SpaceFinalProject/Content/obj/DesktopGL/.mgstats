@@ -1,0 +1,16 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Riya/Desktop/SpaceProject/Content/background.wav","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/background.xnb","SoundEffectProcessor","SoundEffectContent",5082702,5082729,0.303136
+"C:/Users/Riya/Desktop/SpaceProject/Content/backgroundAudio.wav","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/backgroundAudio.xnb","SoundEffectProcessor","SoundEffectContent",42006606,42006633,0.6380715
+"C:/Users/Riya/Desktop/SpaceProject/Content/Cactus.png","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/Cactus.xnb","TextureProcessor","Texture2DContent",22487,46021,0.0249751
+"C:/Users/Riya/Desktop/SpaceProject/Content/coin.png","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/coin.xnb","TextureProcessor","Texture2DContent",246303,2592085,0.0686681
+"C:/Users/Riya/Desktop/SpaceProject/Content/coinAudio.wav","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/coinAudio.xnb","SoundEffectProcessor","SoundEffectContent",239694,239721,0.1422997
+"C:/Users/Riya/Desktop/SpaceProject/Content/forest.jpg","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/forest.xnb","TextureProcessor","Texture2DContent",1485671,8294485,0.4048477
+"C:/Users/Riya/Desktop/SpaceProject/Content/losingSound.wav","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/losingSound.xnb","SoundEffectProcessor","SoundEffectContent",124494,124521,0.1344675
+"C:/Users/Riya/Desktop/SpaceProject/Content/ninja.png","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/ninja.xnb","TextureProcessor","Texture2DContent",77531,324085,0.0094464
+"C:/Users/Riya/Desktop/SpaceProject/Content/ninjaStar.png","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/ninjaStar.xnb","TextureProcessor","Texture2DContent",3275,17245,0.0038652
+"C:/Users/Riya/Desktop/SpaceProject/Content/reward.png","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/reward.xnb","TextureProcessor","Texture2DContent",8134,30269,0.0035766
+"C:/Users/Riya/Desktop/SpaceProject/Content/spaceFont.spritefont","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/spaceFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,136226,0.0767781
+"C:/Users/Riya/Desktop/SpaceProject/Content/timerFont.spritefont","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/timerFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70690,0.0208804
+"C:/Users/Riya/Desktop/SpaceProject/Content/win.wav","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/win.xnb","SoundEffectProcessor","SoundEffectContent",456270,456297,0.1327212
+"C:/Users/Riya/Desktop/SpaceProject/Content/wood.png","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/wood.xnb","TextureProcessor","Texture2DContent",15284,250085,0.0094396
+"C:/Users/Riya/Desktop/SpaceProject/Content/woodenplank.png","C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/woodenplank.xnb","TextureProcessor","Texture2DContent",3996,1692885,0.0437232

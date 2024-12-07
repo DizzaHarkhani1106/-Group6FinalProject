@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/background.wav</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/backgroundAudio.wav</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/Cactus.png</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/coin.png</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/coinAudio.wav</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/forest.jpg</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/losingSound.wav</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/ninja.png</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/ninjaStar.png</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/reward.png</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/spaceFont.spritefont</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/timerFont.spritefont</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/win.wav</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/wood.png</File>
+    <File>C:/Users/dizza/Downloads/SpaceProject/SpaceFinalProject/Content/woodenplank.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
