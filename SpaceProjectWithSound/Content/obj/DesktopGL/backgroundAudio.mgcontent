@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Riya/Desktop/SpaceProject/Content/backgroundAudio.wav</SourceFile>
+  <SourceTime>2024-12-05T18:25:29.4526539-05:00</SourceTime>
+  <DestFile>C:/Users/Riya/Desktop/SpaceProject/Content/bin/DesktopGL/backgroundAudio.xnb</DestFile>
+  <DestTime>2024-12-05T18:25:57.0269795-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-08-16T13:05:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T13:05:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
